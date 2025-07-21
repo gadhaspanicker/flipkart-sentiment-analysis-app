@@ -33,5 +33,5 @@ This project uses machine learning to analyze Flipkart product reviews and class
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/flipkart-sentiment-analysis-app.git
+git clone https://github.com/gadha-s-panicker/flipkart-sentiment-analysis-app.git
 cd flipkart-sentiment-analysis-app
